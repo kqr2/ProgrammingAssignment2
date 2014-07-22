@@ -1,4 +1,4 @@
-## cacheMatrix : cache time consuming matrix inversions
+## cachematrix : cache time consuming matrix inversions
 ##  Ken Q : rprog-005 : programming assignment 2 : 7/21/2014
 
 ## A pair of R functions to cache the inverse of a matrix
